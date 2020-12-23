@@ -41,3 +41,9 @@ pyenv activate lewagon 2>/dev/null && echo "🐍 Loading 'lewagon' virtualenv"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+
+# Flutter path
+export PATH="$PATH:/Users/anariccetti/code/flutter/bin"
+
+# jdk path
+export PATH="/usr/local/opt/openjdk/bin:$PATH"
