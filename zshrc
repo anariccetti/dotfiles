@@ -47,3 +47,4 @@ export PATH="$PATH:/Users/anariccetti/code/flutter/bin"
 
 # jdk path
 export PATH="/usr/local/opt/openjdk/bin:$PATH"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
